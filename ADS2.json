@@ -1,0 +1,83 @@
+{
+  "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+      "value" : "http://www.w3.org/2002/07/owl#Ontology",
+      "type" : "uri"
+    } ]
+  },
+  "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#Algorithm" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+      "value" : "http://www.w3.org/2002/07/owl#Class",
+      "type" : "uri"
+    } ]
+  },
+  "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#maxObjectivesAlgorithmIsAbleToDealWith" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+      "value" : "http://www.w3.org/2002/07/owl#DatatypeProperty",
+      "type" : "uri"
+    } ]
+  },
+  "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#minObjectivesAlgorithmIsAbleToDealWith" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+      "value" : "http://www.w3.org/2002/07/owl#DatatypeProperty",
+      "type" : "uri"
+    } ]
+  },
+  "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#nsgaii" : {
+    "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#maxObjectivesAlgorithmIsAbleToDealWith" : [ {
+      "value" : "3",
+      "type" : "literal",
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    } ],
+    "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#minObjectivesAlgorithmIsAbleToDealWith" : [ {
+      "value" : "2",
+      "type" : "literal",
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    } ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+      "value" : "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#Algorithm",
+      "type" : "uri"
+    }, {
+      "value" : "http://www.w3.org/2002/07/owl#NamedIndividual",
+      "type" : "uri"
+    } ]
+  },
+  "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#nsgaiii" : {
+    "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#maxObjectivesAlgorithmIsAbleToDealWith" : [ {
+      "value" : "10000",
+      "type" : "literal",
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    } ],
+    "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#minObjectivesAlgorithmIsAbleToDealWith" : [ {
+      "value" : "3",
+      "type" : "literal",
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    } ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+      "value" : "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#Algorithm",
+      "type" : "uri"
+    }, {
+      "value" : "http://www.w3.org/2002/07/owl#NamedIndividual",
+      "type" : "uri"
+    } ]
+  },
+  "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#smsemoa" : {
+    "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#maxObjectivesAlgorithmIsAbleToDealWith" : [ {
+      "value" : "3",
+      "type" : "literal",
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    } ],
+    "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#minObjectivesAlgorithmIsAbleToDealWith" : [ {
+      "value" : "2",
+      "type" : "literal",
+      "datatype" : "http://www.w3.org/2001/XMLSchema#integer"
+    } ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [ {
+      "value" : "http://www.semanticweb.org/vbasto/ontologies/2020/9/untitled-ontology-74#Algorithm",
+      "type" : "uri"
+    }, {
+      "value" : "http://www.w3.org/2002/07/owl#NamedIndividual",
+      "type" : "uri"
+    } ]
+  }
+}
